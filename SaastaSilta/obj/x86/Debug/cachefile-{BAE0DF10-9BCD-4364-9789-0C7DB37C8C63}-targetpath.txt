@@ -1,0 +1,14 @@
+Content\tausta.xnb
+Content\pallokuva.xnb
+Content\kivikuva.xnb
+Content\sydankuva.xnb
+Content\tiilikuva.xnb
+Content\nenakuva.xnb
+Content\ankkakuva.xnb
+Content\paakuva.xnb
+Content\kissakuva.xnb
+Content\koirakuva.xnb
+Content\pulukuva.xnb
+Content\pollokuva.xnb
+Content\onneakuva.xnb
+Content\TestiFontti.xnb

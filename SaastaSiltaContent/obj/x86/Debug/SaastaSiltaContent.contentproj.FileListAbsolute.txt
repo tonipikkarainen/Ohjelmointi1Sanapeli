@@ -1,0 +1,2 @@
+D:\kurssit\ohj1\ht\harjoitustyo\Harkka\SaastaSilta\SaastaSiltaContent\obj\x86\Debug\SaastaSiltaContent.contentprojResolveAssemblyReference.cache
+C:\MyTemp\ohj1\totapikk\ht\harjoitustyo\Harkka\SaastaSilta\SaastaSiltaContent\obj\x86\Debug\SaastaSiltaContent.contentprojResolveAssemblyReference.cache
